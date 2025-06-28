@@ -1,4 +1,4 @@
-module pipe_MIPS32 (clk1,clk2);
+module pipe_MIPS32(clk1,clk2);
 input clk1, clk2;
 reg [31:0] PC, IF_ID_IR, IF_ID_NPC;
 reg [31:0] ID_EX_IR, ID_EX_NPC, ID_EX_A, ID_EX_B, ID_EX_Imm;
