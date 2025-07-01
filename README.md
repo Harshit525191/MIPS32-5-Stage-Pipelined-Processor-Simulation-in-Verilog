@@ -1,6 +1,6 @@
 # MIPS32 5-Stage Pipelined Processor Simulation in Verilog
 
-This project implements a simplified 32-bit MIPS processor using a 5-stage pipeline architecture in Verilog. The pipeline includes basic instruction decoding, ALU execution, memory operations, and register write-back. A testbench (`testpipeline`) is also included to simulate and verify instruction execution with waveform generation support.
+This project presents a simplified 32-bit MIPS processor implemented in Verilog using a 5-stage pipeline architecture. The pipeline includes basic instruction decoding, ALU execution, memory operations, and register write-back. A testbench (`testpipeline`)  is provided to simulate instruction execution and generate waveforms for verification.
 
 ---
 
