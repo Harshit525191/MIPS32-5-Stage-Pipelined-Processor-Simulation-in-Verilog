@@ -24,8 +24,8 @@ Each stage is implemented using pipeline registers:
 | File | Description |
 |------|-------------|
 | `pipe_MIPS32.v` | Main processor module implementing 5-stage pipelining |
-| `testpipeline.v` | Testbench for simulating and verifying the processor |
-| `testpipeline.vcd` | Waveform dump generated from simulation (can be opened in GTKWave) |
+| `pipelinetxt.v` | Testbench for simulating and verifying the processor |
+| `pipelinetxt.vcd` | Waveform dump generated from simulation (can be opened in GTKWave) |
 
 ---
 
